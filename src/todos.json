@@ -1,0 +1,40 @@
+{
+    "todos":[
+        {
+            "title": "task 1",
+            "author": "Manuel villegas",
+            "descriptions" : "lorem ipsum dasfag",
+            "priority": "low"
+        },
+        {
+            "title":"task 2",
+            "author": "Daniela Alexandra",
+            "descriptions": "lorena history",
+            "priority" : "Medium"
+        },
+        {
+            "title": "task 3",
+            "author": "Maikol Sanchez",
+            "descriptions": "Maikol no se equivoca",
+            "priority" : "high"
+        },
+        {
+            "title": "task 3",
+            "author": "Maikol Sanchez",
+            "descriptions": "Maikol no se equivoca",
+            "priority" : "high"
+        },
+        {
+            "title": "task 3",
+            "author": "Maikol Sanchez",
+            "descriptions": "Maikol no se equivoca",
+            "priority" : "high"
+        },
+        {
+            "title": "task 3",
+            "author": "Maikol Sanchez",
+            "descriptions": "Maikol no se equivoca",
+            "priority" : "high"
+        }
+    ]
+}

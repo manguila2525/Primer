@@ -1,0 +1,20 @@
+{
+    "empleado": [
+        {
+            "nombre" : "Miguel",
+            "area": "Ing",
+            "horasDeTrabajo": 8
+            
+        },
+        {
+            "nombre" : "Juan",
+            "area": "Albanil",
+            "horasDeTrabajo": 9
+        },
+        {
+            "nombre" : "Daniela",
+            "area" : "Ing",
+            "horasDeTrabajo" : 7
+        }
+    ]
+}
